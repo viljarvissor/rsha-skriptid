@@ -28,7 +28,7 @@ Loob wordpress andmebaasi ja kasutaqja
 Andmebaas: Wordpress
 Kasutaja: Wordpressuser
 Kasutaja parool: qwerty
-
+```
 #### pma_paigaldus.sh
 Skript instaleerib phpmyadmini
 ```
