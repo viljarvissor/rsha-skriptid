@@ -46,7 +46,7 @@ Wordpress config failis muudetakse:
 "username_here" loodud kasutajanimega "wordpressuser"
 "password_here" loodud kasutaja parooliga "qwerty"
 ```
-```
-Wordpressile saab kätte nii: {serveri IP}/wordpress
-Myphpadminile saab kätte nii: {serveri IP}/myphpadmin
-```
+
+Wordpressile saab kätte nii: http://local-host/wordpress
+Myphpadminile saab kätte nii: http://local-host/phpmyadmin
+
