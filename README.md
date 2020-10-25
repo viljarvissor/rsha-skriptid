@@ -13,6 +13,7 @@ git config --global user.email email@domeen.com
 git config --global core.editor nano
 ```
 ### Skriptid tuleb aktiveerida järjekorras nagu on kirjutatud
+Kõik on tehtud Debian 9 peal. Võib jutuda, et ei saa skripti käivitada, selleks on vaja kasutada käsku chmod "+x [Faili asukoht]".
 #### apache_paigaldus.sh
 Tõmbab alla apche2 apt abil
 
